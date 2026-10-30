@@ -1,0 +1,33 @@
+Time resolution is 1 ps
+---DDS_SIM_BEGIN---
+SAMPLE 0 : phase=0 wave=128
+SAMPLE 1 : phase=0 wave=128
+SAMPLE 2 : phase=0 wave=128
+SAMPLE 3 : phase=0 wave=128
+SAMPLE 4 : phase=0 wave=128
+SAMPLE 5 : phase=0 wave=128
+SAMPLE 6 : phase=0 wave=128
+SAMPLE 7 : phase=0 wave=128
+SAMPLE 8 : phase=0 wave=128
+SAMPLE 9 : phase=1 wave=131
+SAMPLE 10 : phase=1 wave=131
+SAMPLE 11 : phase=1 wave=131
+SAMPLE 12 : phase=1 wave=131
+SAMPLE 13 : phase=1 wave=131
+SAMPLE 14 : phase=1 wave=131
+SAMPLE 15 : phase=1 wave=131
+SAMPLE 16 : phase=1 wave=131
+SAMPLE 17 : phase=1 wave=131
+SAMPLE 18 : phase=1 wave=131
+SAMPLE 19 : phase=1 wave=131
+SAMPLE 20 : phase=1 wave=131
+SAMPLE 21 : phase=1 wave=131
+SAMPLE 22 : phase=1 wave=131
+SAMPLE 23 : phase=1 wave=131
+SAMPLE 24 : phase=1 wave=131
+SAMPLE 25 : phase=1 wave=131
+SAMPLE 26 : phase=1 wave=131
+SAMPLE 27 : phase=1 wave=131
+SAMPLE 28 : phase=1 wave=131
+SAMPLE 29 : phase=2 wave=134
+The simulator has terminated in an unexpected manner with exit code 1.  Please review the simulation log (xsim.log) for details.

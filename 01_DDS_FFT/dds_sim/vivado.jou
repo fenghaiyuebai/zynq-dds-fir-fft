@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Fri Oct 30 20:31:01 2026
+# Process ID         : 35268
+# Current directory  : C:/Users/22380/AppData/Roaming/Xilinx/Vivado
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent34340
+# Log file           : C:/Users/22380/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file       : C:/Users/22380/AppData/Roaming/Xilinx/Vivado\vivado.jou
+# Running On         : ChenYi
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 5 125H
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 18
+# Host memory        : 33821 MB
+# Swap memory        : 19327 MB
+# Total Virtual      : 53149 MB
+# Available Virtual  : 21812 MB
+#-----------------------------------------------------------
+start_guopopen_project D:/dds_sim/dds_sim.xpr
+update_compile_order -fileset sources_1
+archive_project D:/dds_sim/dds_sim_archive.zip
+]
+get_property STATUS [get_runs impl_1]
+get_property DIRECTORY [get_runs impl_1]
+archive_project D:/sig_clean/source_code.zip -include_ip
+archive_project D:/sig_clean/source_code.zip
